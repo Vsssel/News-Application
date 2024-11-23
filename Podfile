@@ -6,7 +6,7 @@ target 'News Application' do
   use_frameworks!
 
   pod 'Alamofire', '~> 5.6'
-  pod 'SnapKit', '~> 5.6'  
+  pod 'SnapKit', '~> 5.6'
 
 
 end

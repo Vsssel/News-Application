@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../Library/Mobile Documents/.Trash/Liked+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/assel/Desktop/SWIFT/News Application/News Application/Model/Liked+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
       location = "group:News Application.xcodeproj">
    </FileRef>
    <FileRef
